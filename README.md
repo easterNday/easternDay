@@ -1,5 +1,13 @@
 <p align="center">
   <br><br>
+  <a href="https://blog.csdn.net/qq_19577209">
+  :coffee: CSDN博客
+  </a>
+  <br><br>
+  <a href="https://easternday.top/">
+  :hourglass_flowing_sand: 个人主页
+  </a>
+  <br><br>
   <!--
   <img style="border: 1px solid blue;border-radius: 100%;overflow: hidden;" src="https://q.qlogo.cn/g?b=qq&nk=849919718&s=100">
   <br><br>
@@ -11,26 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=easterNday&show_icons=true&theme=graywhite"/>
   <br><br>
 </p>
-
-
-<table align="center">
-  <tr>
-  <td valign="top" width="50%">
-
-  ### 开源项目
-
-  - [事件演化分析](https://github.com/easterNday/Event-evolution-analysis)
-  - [Android脱壳机](https://github.com/DogDayAndroid)
-  - [数据结构及OJ相关代码](https://github.com/OJ-Exercise)
-
-  </td>
-  
-  <td valign="top" width="50%">
-
-  ### 我的博客
-  - [:coffee: CSDN博客](https://blog.csdn.net/qq_19577209)
-  - [:hourglass_flowing_sand: 个人主页](https://easternday.top/)
-
-  </td>
-  </tr>
-</table>
